@@ -220,3 +220,41 @@ main {
     font-size: 16px;
     color: #757575;
 }
+
+/* Remuse Styles  */
+
+.resume {
+    margin-top: 130px;
+}
+
+.resume-container {
+    display: flex;
+    gap: 24px;
+    margin: 110px auto 0px auto;
+}
+
+.resume-column-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.experience-title {
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 0px;
+}
+
+.experience-sub-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.resume-btn {
+   text-align: center;
+    margin-top: 50px;
+}
